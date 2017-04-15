@@ -4,21 +4,21 @@ Place **autoexec.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Of
 Place **prac.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. Follow directions included in file.
 
 ### Launch Options
--novid -freq 144 -threads 4 -high
+-novid
 
 ### Hardware
-* Intel 4690k at 4.0GHz<br />
-* AMD Radeon R9 390<br />
-* HyperX Fury 16GB<br />
-* EVGA 750w Modular PSU<br />
-* NZXT H440<br />
-* Logitech G502 Mouse<br />
+* Intel 7600k at 4.8GHz<br />
+* EVGA 980ti ACX 2.0<br />
+* Corsair DDR4 3000 16gb<br />
+* Corsair SF600<br />
+* Fractal Design Node 202<br />
+* SteelSeries Rival 300<br />
 * CM Storm Quickfire TKL Keyboard<br />
-* SteelSeries Siberia v2 Headset<br />
-* HyperX Extended Mouse Pad<br />
+* Corsair Headset<br />
+* Glorious PCMR XXL Mousepad<br />
 
 ### Settings
-* Windows 10 Pro<br />
+* Windows 10<br />
 * Resolution: 1920x1080<br />
 * VibranceGUI: 200% [(Link)](http://www.vibrancegui.com)<br />
 * Windows Sensitivity: 6/11<br />
