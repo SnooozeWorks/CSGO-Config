@@ -1,7 +1,7 @@
 # Snoooze's Config Files
 I update these files pretty regularly.<br /><br />
 Place **autoexec.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. It will execute itself whenever you load CSGO.<br /><br />
-Place **prac.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. Follow directions included in file.
+Place **prac.cfg, alias.cfg, crosshair.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. Follow directions included in files.
 
 ### Launch Options
 -novid
