@@ -26,4 +26,4 @@ Place **prac.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offens
 * Polling Rate: 1000hz<br />
 
 ### Questions?
-If you have any questions about these files, shoot me a message on my [website](http://www.daniel-watts.com), or on [twitter](http://www.twitter.com/danielwatts_87).
+Hit me up on [steam](http://www.steamcommunity.com/id/justsnoooze)
