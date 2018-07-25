@@ -7,15 +7,15 @@ Place **alias.cfg, crosshair.cfg, help.cfg, prac.cfg** into `...\Steam\steamapps
 -novid
 
 ### Hardware
-* Intel 7600k at 4.8GHz<br />
-* EVGA 980ti ACX 2.0<br />
+* Intel 7700k<br />
+* nVidia 1070 FE<br />
 * Corsair DDR4 3000 16gb<br />
-* Corsair SF600<br />
-* Fractal Design Node 202<br />
-* SteelSeries Rival 300<br />
-* CM Storm Quickfire TKL Keyboard<br />
+* Seasonic Prime Ultra 550<br />
+* Phanteks Evolv ITX<br />
+* Logitech G703<br />
+* Pok3r with Cherry MX Blues<br />
 * Corsair Headset<br />
-* Glorious PCMR XXL Mousepad<br />
+
 
 ### Settings
 * Windows 10<br />
