@@ -2,8 +2,9 @@
 Place **autoexec.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. It will load automatically when you start CS:GO.<br /><br />
 Place **alias.cfg, crosshair.cfg, help.cfg, prac.cfg, scripts.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\custom`
 
-# Latest Version: 2.1
-# Updated: 08.06.21
+### Repo Information
+* Latest Version: 2.1
+* Updated: 08.06.21
 
 ### Launch Options
 -novid -freq 144 -refresh 144 -tickrate 128 -nojoy -d3d9ex
