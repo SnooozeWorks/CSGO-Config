@@ -8,21 +8,15 @@ Place **alias.cfg, crosshair.cfg, help.cfg, prac.cfg** into `...\Steam\steamapps
 
 ### Hardware
 * Intel 7700k<br />
-* nVidia 1070 FE<br />
-* Corsair DDR4 3000 16gb<br />
-* Seasonic Prime Ultra 550<br />
-* Phanteks Evolv ITX<br />
-* Logitech G703<br />
-* Pok3r with Cherry MX Blues<br />
-* Corsair Headset<br />
-
+* EVGA 1080ti FTW3<br />
+* Corsair DDR4 3000 32gb<br />
 
 ### Settings
 * Windows 10<br />
 * Resolution: 1920x1080<br />
 * VibranceGUI: 200% [(Link)](http://www.vibrancegui.com)<br />
 * Windows Sensitivity: 6/11<br />
-* Mouse DPI: 400<br />
+* Mouse DPI: 800<br />
 * Polling Rate: 1000hz<br />
 
 ### Questions?
