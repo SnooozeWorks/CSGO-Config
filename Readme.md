@@ -5,6 +5,8 @@ Place **alias.cfg, crosshair.cfg, help.cfg, prac.cfg**, scripts.cfg into `...\St
 ### Launch Options
 -novid
 
+### Latest Version: 2.1
+
 ### Hardware
 * Intel 7700k<br />
 * EVGA 1080ti FTW3<br />
