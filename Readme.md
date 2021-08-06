@@ -1,11 +1,11 @@
 # Snoooze's Config Files
-Place **autoexec.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. It will execute itself whenever you load CSGO.<br /><br />
-Place **alias.cfg, crosshair.cfg, help.cfg, prac.cfg**, scripts.cfg into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\custom.
-
-### Launch Options
--novid
+Place **autoexec.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. It will load automatically when you start CS:GO.<br /><br />
+Place **alias.cfg, crosshair.cfg, help.cfg, prac.cfg, scripts.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\custom`
 
 ### Latest Version: 2.1
+
+### Launch Options
+-novid -freq 144 -refresh 144 -tickrate 128 -nojoy -d3d9ex
 
 ### Hardware
 * Intel 7700k<br />
