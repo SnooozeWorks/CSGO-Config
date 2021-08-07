@@ -1,6 +1,6 @@
 # Snoooze's Config Files
 Place **autoexec.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. It will load automatically when you start CS:GO.<br /><br />
-Place **alias.cfg, alias_help, crosshair.cfg, help.cfg, prac.cfg, scripts.cfg** into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\custom`<br /><br />
+Place `alias.cfg, alias_help.cfg, crosshair.cfg, help.cfg, prac.cfg, scripts.cfg ` into `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\custom`<br /><br />
 If you do not want to use a file ( ie prac.cfg ), just remove it from the `...\custom` folder. You can also delete the loading reference in the **autoexec.cfg** file.
 
 ### Gist Information
