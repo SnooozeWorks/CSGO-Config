@@ -4,8 +4,8 @@ Place `alias.cfg, alias_help.cfg, crosshair.cfg, help.cfg, prac.cfg, scripts.cfg
 If you do not want to use a file ( ie prac.cfg ), just remove it from the `...\custom` folder. You can also delete the loading reference in the **autoexec.cfg** file.
 
 ### Gist Information
-* Latest Version: 2.1
-* Updated: 08.06.21
+* Latest Version: 2.13
+* Updated: 08.07.21
 
 ### Features
 * Volume Binds with OSD and Notification Sound
