@@ -4,8 +4,8 @@ Place `alias.cfg, alias_help.cfg, crosshair.cfg, help.cfg, prac.cfg, scripts.cfg
 If you do not want to use a file ( ie prac.cfg ), just remove it from the `...\custom` folder. You can also delete the loading reference in the **autoexec.cfg** file.
 
 ### Gist Information
-* Latest Version: 2.13
-* Updated: 08.07.21
+* Latest Version: 2.15
+* Updated: 08.17.21
 
 ### Features
 * Volume Binds with OSD and Notification Sound
@@ -14,7 +14,7 @@ If you do not want to use a file ( ie prac.cfg ), just remove it from the `...\c
 * Crosshair Color Cycling with OSD and Notification Sound
 * AFK Script with OSD and Notification Sound
 * Full Alias file to launch maps, give weapons, or start workshop maps just buy typing the name
-* Full Practice config, with unlimited grenades, 60 minute timer, and bot features
+* Full Practice config, with unlimited grenades, 60-minute timer, and bot features
 * Jumpthrow, Crouchjump, Quickswitch, Print Damage OSD, and Teammate Equipment scripts
 * Binds for net graph, removing decals, radio and chat commands, grenades, and more.
 * In-Game Help Screen with all binds listed in console.
